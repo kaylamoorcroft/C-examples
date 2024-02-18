@@ -7,7 +7,7 @@ We had to make a program for different control structures (for loop, do while lo
 Because this seems like a kind of boring assignment, I decided to make it more interesting (and fun) for myself by making programs that actually do something instead of just use the control statement...
 
 So I made:
-- A number guessing game (do-while.c)
+- A number guessing game (do-while.c) - this was my favourite one to make!
 - Creating a pyramid of the user's requested size (for.c)
 - Determining if a number is positive / negative / neutral (if.c) - this is the most boring one in my opinion...
 - Diary / journal entry simulator (switch.c)
