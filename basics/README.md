@@ -1,4 +1,4 @@
-#Basics
+# Basics
 
 This is kind of a trivial assignment, but it was the first one after all. The purpose was to write basic C code and get used to using makefiles. 
 
