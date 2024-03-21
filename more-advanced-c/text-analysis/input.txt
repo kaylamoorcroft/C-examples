@@ -1,0 +1,5 @@
+This is the file.
+This file has 5 lines!
+Palindrome examples: Level, radAr
+(These have weird capitalization to show that the program is case insensitive)
+Done :)

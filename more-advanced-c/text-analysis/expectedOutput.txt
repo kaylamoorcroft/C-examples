@@ -1,0 +1,74 @@
+(THIS DOCUMENT SHOWS THE EXPECTED OUTPUT FOR EACH FUNCTION IN THE PROGRAM)
+
+------------------------------------------------------------------------
+
+--- 1. Word/Character/Punctuation Count ---
+-----
+File info:
+-----
+Chars: 157
+Words: 27
+Punctuation: 8
+-----
+
+------------------------------------------------------------------------
+
+--- 2. Substring Search --- (searching for "this")
+Enter a substring to search (max 50 chars) 
+ > this
+
+-----
+Occurences of "this" in file:
+-----
+"This" is the file.
+"This" file has 5 lines!
+-----
+
+------------------------------------------------------------------------
+
+--- 3. Find Palindromic Words ---
+-----
+Palindromes in file:
+-----
+Level
+radAr
+-----
+
+------------------------------------------------------------------------
+
+--- 4. Encrypt File ---  (encrypting with offset 3)
+~(Output to command line)~
+-----
+Encryption:
+-----
+Enter encryption key (eg. "5") 
+ > 3
+New encrypted file "input.txt.caesar" created
+-----
+~(Contents of input.txt.caesar file)~
+Wklv#lv#wkh#iloh1
+Wklv#iloh#kdv#8#olqhv$
+Sdolqgurph#h{dpsohv=#Ohyho/#udgDu
++Wkhvh#kdyh#zhlug#fdslwdol}dwlrq#wr#vkrz#wkdw#wkh#surjudp#lv#fdvh#lqvhqvlwlyh,
+Grqh#=,
+
+------------------------------------------------------------------------
+
+--- 5. Decrypt File --- (providing offset 3)
+~(Output to command line)~
+-----
+Decryption:
+-----
+Enter encryption key (eg. "5") 
+ > 3
+New decrypted file "input.txt.decrypted" created
+-----
+~(Contents of input.txt.decrypted file)~
+This is the file.
+This file has 5 lines!
+Palindrome examples: Level, radAr
+(These have weird capitalization to show that the program is case insensitive)
+Done :)
+
+------------------------------------------------------------------------
+
