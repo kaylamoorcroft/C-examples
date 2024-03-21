@@ -1,4 +1,4 @@
-# Assignment 1
+# Basic input and output
 
 #### Part A: triangle-area.c
 
