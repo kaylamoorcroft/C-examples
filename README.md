@@ -1,4 +1,4 @@
-Showcasing example programs that I made while learning C. These are mostly for assignments at university.  
+Showcasing example programs that I made while learning C. 
 
 ### problem-solving-c
 
