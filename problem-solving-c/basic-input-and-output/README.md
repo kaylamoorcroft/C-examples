@@ -1,5 +1,7 @@
 # Basic input and output
 
+Starting to learn the syntax of C - particularly input and output.
+
 #### Part A: triangle-area.c
 
 Find the area of a triangle based on the base and height input
