@@ -1,4 +1,6 @@
-# Assignment 2
+# Math and if statements
+
+As you can guess, this is just learning about the math module and using if statements in C.
 
 #### Part A: law-of-sines.c
 
